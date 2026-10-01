@@ -1,0 +1,4 @@
+Hello World!
+
+This is my first Git and GitHub practical.
+I am learning version control for Data Science projects.
